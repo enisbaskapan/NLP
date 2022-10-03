@@ -8,3 +8,4 @@ Word Embedding
 
 Toxic Text Classification
 -----------------------------------
+* Kaggle Toxic Comment Classification challenge.
